@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Proje.SiniflarKalitim.Okul">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAAAIAAAAAAAAIAAAAAgAAgAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Okul.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje.SiniflarKalitim.Bolum">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bolum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje.SiniflarKalitim.Lab">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAIAAAAAEAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Lab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje.SiniflarKalitim.LabTurleri">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>LabTurleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje.SiniflarKalitim.Malzemeler">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAIAAAAAAIAAAAAAAAABQEAAAAAAAAAAJAAAA=</HashCode>
+      <FileName>Malzemeler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje.SiniflarKalitim.Program">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAIAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje.SiniflarKalitim.OrtakOzellikler">
+    <Position X="8.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIIAAAAAIAAAAYAIAIAAAAAAAAgBAAAACAAAAAABAAg=</HashCode>
+      <FileName>OrtakOzellikler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje.SiniflarKalitim.Kullanicilar">
+    <Position X="1.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kullanicilar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje.SiniflarKalitim.BolumYeni">
+    <Position X="0.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BolumYeni.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje.SiniflarKalitim.OkulYeni">
+    <Position X="5.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OkulYeni.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje.SiniflarKalitim.ProgramYeni">
+    <Position X="3" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAIAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProgramYeni.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Proje.SiniflarKalitim.MalzemeTurleri">
+    <Position X="10.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Malzemeler.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\GitLabProjeleri\CalismaGrupProjesi\Proje.WebKalitim\Proje.SiniflarKalitim\bin\Debug\Proje.SiniflarKalitim.dll
+D:\Visual Studio 2013\Projects\GitLabProjeleri\CalismaGrupProjesi\Proje.WebKalitim\Proje.SiniflarKalitim\bin\Debug\Proje.SiniflarKalitim.pdb
+D:\Visual Studio 2013\Projects\GitLabProjeleri\CalismaGrupProjesi\Proje.WebKalitim\Proje.SiniflarKalitim\obj\Debug\Proje.SiniflarKalitim.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\GitLabProjeleri\CalismaGrupProjesi\Proje.WebKalitim\Proje.SiniflarKalitim\obj\Debug\Proje.SiniflarKalitim.dll
+D:\Visual Studio 2013\Projects\GitLabProjeleri\CalismaGrupProjesi\Proje.WebKalitim\Proje.SiniflarKalitim\obj\Debug\Proje.SiniflarKalitim.pdb

@@ -1,0 +1,10 @@
+D:\Visual Studio 2013\Projects\GitLabProjeleri\CalismaGrupProjesi\Proje.WebKalitim\Proje.Veritabani\bin\Debug\Proje.Veritabani.dll.config
+D:\Visual Studio 2013\Projects\GitLabProjeleri\CalismaGrupProjesi\Proje.WebKalitim\Proje.Veritabani\bin\Debug\Proje.Veritabani.dll
+D:\Visual Studio 2013\Projects\GitLabProjeleri\CalismaGrupProjesi\Proje.WebKalitim\Proje.Veritabani\bin\Debug\Proje.Veritabani.pdb
+D:\Visual Studio 2013\Projects\GitLabProjeleri\CalismaGrupProjesi\Proje.WebKalitim\Proje.Veritabani\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2013\Projects\GitLabProjeleri\CalismaGrupProjesi\Proje.WebKalitim\Proje.Veritabani\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2013\Projects\GitLabProjeleri\CalismaGrupProjesi\Proje.WebKalitim\Proje.Veritabani\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2013\Projects\GitLabProjeleri\CalismaGrupProjesi\Proje.WebKalitim\Proje.Veritabani\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2013\Projects\GitLabProjeleri\CalismaGrupProjesi\Proje.WebKalitim\Proje.Veritabani\obj\Debug\Proje.Veritabani.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\GitLabProjeleri\CalismaGrupProjesi\Proje.WebKalitim\Proje.Veritabani\obj\Debug\Proje.Veritabani.dll
+D:\Visual Studio 2013\Projects\GitLabProjeleri\CalismaGrupProjesi\Proje.WebKalitim\Proje.Veritabani\obj\Debug\Proje.Veritabani.pdb
